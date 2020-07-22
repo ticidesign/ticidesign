@@ -1,6 +1,6 @@
 # Ticiana de Andrade - @ticidesign 👋
 
-Hi, I'm Tici - a software developer at Thinkmill . 
+Hi, I'm Tici and I’m passionate about increasing the visibility and representation of women and other minorities in tech. I work as a software developer at [Thinkmill](https://www.thinkmill.com.au/). 
 
 <!--
 **ticidesign/ticidesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
