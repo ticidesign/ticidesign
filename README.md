@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working as a contractor at [Atlassian](https://www.atlassian.com/) to support the [Jira Next-gen](https://www.atlassian.com/software/jira/whats-new/next-gen) Project.
 
-🌱 I’m currently learning React, GraphQL, Node.
+🌱 I’m currently learning Kotlin and Rust.
 
 😄 Pronouns: she/her
 
