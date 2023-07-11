@@ -1,6 +1,6 @@
 # Ticiana de Andrade - @ticidesign 👋
 
-Hi, I'm Tici and I’m passionate about increasing the visibility and representation of women and other minorities in tech. I work as a software developer at [Thinkmill](https://www.thinkmill.com.au/). 
+Hi, I'm Tici and I’m passionate about increasing the visibility and representation of women and other minorities in tech. I work as a senior frontend developer at [Bugcrowd](https://www.bugcrowd.com/). 
 
 <!--
 **ticidesign/ticidesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,8 +11,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
 -->
-
-🔭 I’m currently working as a contractor at [Atlassian](https://www.atlassian.com/) to support the [Jira Next-gen](https://www.atlassian.com/software/jira/whats-new/next-gen) Project.
 
 🌱 I’m currently learning Kotlin and Rust.
 
